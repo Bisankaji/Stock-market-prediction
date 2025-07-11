@@ -1,0 +1,423 @@
+Symbol,Company Name,Sector,Status,Security Name,Regulatory Body,Instrument Type
+NABIL,Nabil Bank Limited,Commercial Banks,A,Nabil Bank Limited,Nepal Rastra Bank,Equity
+NIB,Nepal Investment Bank Limited,Commercial Banks,A,Nepal Investment Bank Limited,Nepal Rastra Bank,Equity
+SCB,Standard Chartered Bank Limited,Commercial Banks,A,Standard Chartered Bank Limited,Nepal Rastra Bank,Equity
+HBL,Himalayan Bank Limited,Commercial Banks,A,Himalayan Bank Limited,Nepal Rastra Bank,Equity
+SBI,Nepal SBI Bank Limited,Commercial Banks,A,Nepal SBI Bank Limited,Nepal Rastra Bank,Equity
+NBB,Nepal Bangladesh Bank Limited,Commercial Banks,A,Nepal Bangladesh Bank Limited,Nepal Rastra Bank,Equity
+EBL,Everest Bank Limited,Commercial Banks,A,Everest Bank Limited,Nepal Rastra Bank,Equity
+BOKL,Bank of Kathmandu Ltd.,Commercial Banks,A,Bank of Kathmandu Ltd.,Nepal Rastra Bank,Equity
+NICA,NIC Asia Bank Ltd.,Commercial Banks,A,NIC Asia Bank Ltd.,Nepal Rastra Bank,Equity
+MBL,Machhapuchhre Bank Limited,Commercial Banks,A,Machhapuchhre Bank Limited,Nepal Rastra Bank,Equity
+LBL,Laxmi Bank Limited,Commercial Banks,A,Laxmi Bank Limited,Nepal Rastra Bank,Equity
+KBL,Kumari Bank Limited,Commercial Banks,A,Kumari Bank Limited,Nepal Rastra Bank,Equity
+LUBL,Lumbini Bank Limited,Commercial Banks,D,Lumbini Bank Limited,Nepal Rastra Bank,Equity
+NCCB,Nepal Credit And Commercial Bank Limited,Commercial Banks,A,Nepal Credit And Commercial Bank Limited,Nepal Rastra Bank,Equity
+SBL,Siddhartha Bank Limited,Commercial Banks,A,Siddhartha Bank Limited,Nepal Rastra Bank,Equity
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,S,Yak And Yeti Hotel Limited,Ministry of Tourism,Equity
+SHL,Soaltee Hotel Limited,Hotels And Tourism,A,Soaltee Hotel Limited,Ministry of Tourism,Equity
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,A,Taragaon Regency Hotel Limited,Ministry of Tourism,Equity
+OHL,Oriental Hotels Limited,Hotels And Tourism,A,Oriental Hotels Limited,Ministry of Tourism,Equity
+ESC,National Pro. And Eco. Dev. Centre,Others,D,National Pro. And Eco. Dev. Centre,N/A,Equity
+NFD,Nepal Film Development Company Limited,Others,S,Nepal Film Development Company Limited,N/A,Equity
+NHPC,National Hydro Power Company Limited,Hydro Power,A,National Hydro Power Company Limited,Nepal Hydropower Board,Equity
+BPCL,Butwal Power Company Limited,Hydro Power,A,Butwal Power Company Limited,Nepal Hydropower Board,Equity
+CHCL,Chilime Hydropower Company Limited,Hydro Power,A,Chilime Hydropower Company Limited,Nepal Hydropower Board,Equity
+STC,Salt Trading Corporation,Tradings,A,Salt Trading Corporation,Department of Industry,Equity
+BBC,Bishal Bazar Company Limited,Tradings,A,Bishal Bazar Company Limited,Department of Industry,Equity
+NBCK,Nepal Byapar Bikash Company(Koshi) Limited,Tradings,D,Nepal Byapar Bikash Company(Koshi) Limited,Department of Industry,Equity
+NTL,Nepal Tading Limited,Tradings,S,Nepal Tading Limited,Department of Industry,Equity
+NWC,Nepal Welfare Company Limited,Tradings,S,Nepal Welfare Company Limited,Department of Industry,Equity
+NIDC,NIDC Development Bank Ltd.,Development Banks,D,NIDC Development Bank Ltd.,Nepal Rastra Bank,Equity
+NDB,Nepal Development Bank Limited,Development Banks,D,Nepal Development Bank Limited,Nepal Rastra Bank,Equity
+GRAND,Grand Bank Nepal Limited,Commercial Banks,D,Grand Bank Nepal Limited,Nepal Rastra Bank,Equity
+NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,Microfinance,A,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+CBBL,Chhimek Laghubitta Bikas Bank Limited,Microfinance,A,Chhimek Laghubitta Bikas Bank Limited,Nepal Rastra Bank,Equity
+PDBL,Paschimanchal Bikash Bank Limited,Development Banks,D,Paschimanchal Bikash Bank Limited,Nepal Rastra Bank,Equity
+DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,Microfinance,A,Deprosc Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+GDBL1,Gandaki Bikas BankLimited,Development Banks,D,Gandaki Bikas BankLimited,Nepal Rastra Bank,Equity
+BUDBL,Business Universal Development Bank Ltd.,Development Banks,D,Business Universal Development Bank Ltd.,Nepal Rastra Bank,Equity
+SDBL,Siddhartha Development Bank Ltd.,Development Banks,D,Siddhartha Development Bank Ltd.,Nepal Rastra Bank,Equity
+BBBL,Bhrikuti Vikash Bank Limited,Development Banks,D,Bhrikuti Vikash Bank Limited,Nepal Rastra Bank,Equity
+SANIMA,Sanima Bank Limited,Commercial Banks,A,Sanima Bank Limited,Nepal Rastra Bank,Equity
+NABBC,Narayani Development Bank Limited,Development Banks,A,Narayani Development Bank Limited,Nepal Rastra Bank,Equity
+BBBLN,Bagheshwori Development Bank Limited,Development Banks,D,Bagheshwori Development Bank Limited,Nepal Rastra Bank,Equity
+SBBLJ,Sahayogi Bikas Bank Limited,Development Banks,D,Sahayogi Bikas Bank Limited,Nepal Rastra Bank,Equity
+GDBNL,Gurkha Development Bank Limited,Development Banks,D,Gurkha Development Bank Limited,Nepal Rastra Bank,Equity
+NICL,Nepal Insurance Co. Ltd.,Non Life Insurance,A,Nepal Insurance Co. Ltd.,Nepal Insurance Board,Equity
+RBCL,Rastriya Beema Company Limited,Non Life Insurance,A,Rastriya Beema Company Limited,Nepal Insurance Board,Equity
+NLICL,National Life Insurance Co. Ltd.,Life Insurance,A,National Life Insurance Co. Ltd.,Nepal Insurance Board,Equity
+HGI,Himalayan General Insurance Co. Ltd,Non Life Insurance,A,Himalayan General Insurance Co. Ltd,Nepal Insurance Board,Equity
+UIC,United Insurance Co. (Nepal) Ltd.,Non Life Insurance,A,United Insurance Co. (Nepal) Ltd.,Nepal Insurance Board,Equity
+EIC,Everest Insurance Co. Ltd.,Non Life Insurance,A,Everest Insurance Co. Ltd.,Nepal Insurance Board,Equity
+PIC,Premier Insurance Co. Ltd.,Non Life Insurance,A,Premier Insurance Co. Ltd.,Nepal Insurance Board,Equity
+NIL,Neco Insurance Co. Ltd.,Non Life Insurance,A,Neco Insurance Co. Ltd.,Nepal Insurance Board,Equity
+PRIN,Prabhu Insurance Ltd.,Non Life Insurance,A,Prabhu Insurance Ltd.,Nepal Insurance Board,Equity
+SIC,Sagarmatha Insurance Co. Ltd.,Non Life Insurance,A,Sagarmatha Insurance Co. Ltd.,Nepal Insurance Board,Equity
+IGI,IME General Insurance Ltd.,Non Life Insurance,A,IME General Insurance Ltd.,Nepal Insurance Board,Equity
+NLIC,Nepal Life Insurance Co. Ltd.,Life Insurance,A,Nepal Life Insurance Co. Ltd.,Nepal Insurance Board,Equity
+LICN,Life Insurance Co. Nepal,Life Insurance,A,Life Insurance Co. Nepal,Nepal Insurance Board,Equity
+PICL,Prudential Insurance Co. Ltd.,Non Life Insurance,A,Prudential Insurance Co. Ltd.,Nepal Insurance Board,Equity
+LGIL,Lumbini General Insurance Co. Ltd.,Non Life Insurance,A,Lumbini General Insurance Co. Ltd.,Nepal Insurance Board,Equity
+SICL,Shikhar Insurance Co. Ltd.,Non Life Insurance,A,Shikhar Insurance Co. Ltd.,Nepal Insurance Board,Equity
+MSM,Morang Sugar Mills Limited,Manufacturing And Processing,D,Morang Sugar Mills Limited,Department of Industry,Equity
+NFS,Nepal Finance Ltd.,Finance,A,Nepal Finance Ltd.,Nepal Rastra Bank,Equity
+BNL,Bottlers Nepal (Balaju) Limited,Manufacturing And Processing,A,Bottlers Nepal (Balaju) Limited,Department of Industry,Equity
+NCM,NIDC Capital Markets Ltd.,Finance,D,NIDC Capital Markets Ltd.,Nepal Rastra Bank,Equity
+BJM,Biratnagar Jute Mills Limited,Manufacturing And Processing,D,Biratnagar Jute Mills Limited,Department of Industry,Equity
+NLO,Nepal Lube Oil Limited,Manufacturing And Processing,A,Nepal Lube Oil Limited,Department of Industry,Equity
+NNFC,Narayani National Finance Limited,Finance,D,Narayani National Finance Limited,Nepal Rastra Bank,Equity
+NSM,Nepal Share Markets Ltd.,Finance,S,Nepal Share Markets Ltd.,Nepal Rastra Bank,Equity
+NVG,Nepal Vanaspati Ghee Udhyog Limited,Manufacturing And Processing,S,Nepal Vanaspati Ghee Udhyog Limited,Department of Industry,Equity
+KBBL,Kailash Bikas Bank Ltd.,Development Banks,D,Kailash Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+RJM,Raghupati Jute Mills Limited,Manufacturing And Processing,S,Raghupati Jute Mills Limited,Department of Industry,Equity
+GUFL,Gurkhas Finance Ltd.,Finance,A,Gurkhas Finance Ltd.,Nepal Rastra Bank,Equity
+BSM,Butwal Spinning Mills Limited,Manufacturing And Processing,S,Butwal Spinning Mills Limited,Department of Industry,Equity
+PFCL,Peoples Finance Ltd.,Finance,D,Peoples Finance Ltd.,Nepal Rastra Bank,Equity
+GRU,Gorakhkali Rubber Udhyog Limited,Manufacturing And Processing,S,Gorakhkali Rubber Udhyog Limited,Department of Industry,Equity
+UFCL,Union Finance Co. Ltd.,Finance,D,Union Finance Co. Ltd.,Nepal Rastra Bank,Equity
+JSM,Jyoti Sinning Mills Limited,Manufacturing And Processing,S,Jyoti Sinning Mills Limited,Department of Industry,Equity
+CIT,Citizen Investment Trust,Investment,A,Citizen Investment Trust,Nepal Rastra Bank,Equity
+AVU,Arun Vanaspati Udhyog Limited,Manufacturing And Processing,S,Arun Vanaspati Udhyog Limited,Department of Industry,Equity
+NABB,Nepal Aawas Finance Limited,Finance,D,Nepal Aawas Finance Limited,Nepal Rastra Bank,Equity
+BNT,Bottlers Nepal (Terai) Limited,Manufacturing And Processing,A,Bottlers Nepal (Terai) Limited,Department of Industry,Equity
+NFL,Narayani Finance Ltd.,Finance,D,Narayani Finance Ltd.,Nepal Rastra Bank,Equity
+HBT,Harisiddhi Brick And Tiles Limited,Manufacturing And Processing,S,Harisiddhi Brick And Tiles Limited,Department of Industry,Equity
+ACEDBL,Ace Development Bank Ltd.,Development Banks,D,Ace Development Bank Ltd.,Nepal Rastra Bank,Equity
+BSL,Birat Shoe Limited,Manufacturing And Processing,S,Birat Shoe Limited,Department of Industry,Equity
+YFL,Yeti Finance Ltd.,Finance,D,Yeti Finance Ltd.,Nepal Rastra Bank,Equity
+UNL,Unilever Nepal Limited,Manufacturing And Processing,A,Unilever Nepal Limited,Department of Industry,Equity
+GFLK,Gorkha Finance Ltd.,Finance,D,Gorkha Finance Ltd.,Nepal Rastra Bank,Equity
+SFC,Samjhana Finance Co. Ltd.,Finance,S,Samjhana Finance Co. Ltd.,Nepal Rastra Bank,Equity
+NKU,Nepal Khadya Udhyog Limited,Manufacturing And Processing,S,Nepal Khadya Udhyog Limited,Department of Industry,Equity
+UFLK,Universal Finance Ltd.,Finance,D,Universal Finance Ltd.,Nepal Rastra Bank,Equity
+HTL,Himgiri Textile Industries Limited,Manufacturing And Processing,D,Himgiri Textile Industries Limited,Department of Industry,Equity
+NHMF,Nepal Housing & Merchant Finance Ltd.,Finance,D,Nepal Housing & Merchant Finance Ltd.,Nepal Rastra Bank,Equity
+SBPP,Shree Bhrikuti Pulp And Paper Limited,Manufacturing And Processing,S,Shree Bhrikuti Pulp And Paper Limited,Department of Industry,Equity
+BFC,Best Finance Company Ltd.,Finance,A,Best Finance Company Ltd.,Nepal Rastra Bank,Equity
+FHL,Fleur Himalayan Limited,Manufacturing And Processing,S,Fleur Himalayan Limited,Department of Industry,Equity
+MFL,Maha Laxmi Finance Ltd.,Finance,D,Maha Laxmi Finance Ltd.,Nepal Rastra Bank,Equity
+SRS,Shree Ram Sugar Mills Limited,Manufacturing And Processing,S,Shree Ram Sugar Mills Limited,Department of Industry,Equity
+LFC,Lalitpur Finance Ltd.,Finance,S,Lalitpur Finance Ltd.,Nepal Rastra Bank,Equity
+GFCL,Goodwill Finance Co. Ltd.,Finance,A,Goodwill Finance Co. Ltd.,Nepal Rastra Bank,Equity
+NBBU,Nepal Bitumin And Barrel Udhyog Limited,Manufacturing And Processing,S,Nepal Bitumin And Barrel Udhyog Limited,Department of Industry,Equity
+PFC,Paschimanchal Finance Co. Ltd.,Finance,D,Paschimanchal Finance Co. Ltd.,Nepal Rastra Bank,Equity
+HDL,Himalayan Distillery Limited,Manufacturing And Processing,A,Himalayan Distillery Limited,Department of Industry,Equity
+PFL,Pokhara Finance Ltd.,Finance,A,Pokhara Finance Ltd.,Nepal Rastra Bank,Equity
+LFLC,Lumbini Finance Ltd.,Finance,D,Lumbini Finance Ltd.,Nepal Rastra Bank,Equity
+NMB,NMB Bank Limited,Commercial Banks,A,NMB Bank Limited,Nepal Rastra Bank,Equity
+SFL,Siddharth Finance Ltd.,Finance,D,Siddharth Finance Ltd.,Nepal Rastra Bank,Equity
+AEFL,Alpic Everest Finance Co. Ltd.,Finance,D,Alpic Everest Finance Co. Ltd.,Nepal Rastra Bank,Equity
+NBFL,Nepal Bangladesh Finance & Leasing Co. Ltd.,Finance,D,Nepal Bangladesh Finance & Leasing Co. Ltd.,Nepal Rastra Bank,Equity
+UFL,United Finance Ltd.,Finance,S,United Finance Ltd.,Nepal Rastra Bank,Equity
+ILFC,International Leasing & Finance Co. Ltd.,Finance,D,International Leasing & Finance Co. Ltd.,Nepal Rastra Bank,Equity
+SIFC,Shree Investment Finance Co. Ltd.,Finance,A,Shree Investment Finance Co. Ltd.,Nepal Rastra Bank,Equity
+CFCL,Central Finance Co. Ltd.,Finance,A,Central Finance Co. Ltd.,Nepal Rastra Bank,Equity
+NSLMB,Nepal Shree Lanka Merchant Banking & Finance Ltd,Finance,D,Nepal Shree Lanka Merchant Banking & Finance Ltd,Nepal Rastra Bank,Equity
+PFCLL,Premier Finance Co. Ltd.,Finance,D,Premier Finance Co. Ltd.,Nepal Rastra Bank,Equity
+NDFL,Nava Durga Finance Co. Ltd.,Finance,D,Nava Durga Finance Co. Ltd.,Nepal Rastra Bank,Equity
+SYFL,Synergy Finance Ltd.,Finance,D,Synergy Finance Ltd.,Nepal Rastra Bank,Equity
+JFL,Janaki Finance Ltd.,Finance,A,Janaki Finance Ltd.,Nepal Rastra Bank,Equity
+STFL,Standard Finance Ltd.,Finance,D,Standard Finance Ltd.,Nepal Rastra Bank,Equity
+OFL,Om Finance Ltd.,Finance,D,Om Finance Ltd.,Nepal Rastra Bank,Equity
+CMBF,CMB Finance Limited,Finance,D,CMB Finance Limited,Nepal Rastra Bank,Equity
+FFCL,Fewa Finance Co. Ltd.,Finance,D,Fewa Finance Co. Ltd.,Nepal Rastra Bank,Equity
+PRVU,Prabhu  Bank Limited,Commercial Banks,A,Prabhu  Bank Limited,Nepal Rastra Bank,Equity
+SFCL,Samriddhi Finance Company Limited,Finance,A,Samriddhi Finance Company Limited,Nepal Rastra Bank,Equity
+BJFL,Birgunj Finance Ltd.,Finance,D,Birgunj Finance Ltd.,Nepal Rastra Bank,Equity
+EFL,Everest Finance Ltd.,Finance,D,Everest Finance Ltd.,Nepal Rastra Bank,Equity
+CMB,Capital Merchant Bank & Finance Co. Ltd.,Finance,S,Capital Merchant Bank & Finance Co. Ltd.,Nepal Rastra Bank,Equity
+PFIL,Prudential Finance Company Limited,Finance,D,Prudential Finance Company Limited,Nepal Rastra Bank,Equity
+SFFIL,Shrijana Finance  (Bittaya Sanstha),Finance,S,Shrijana Finance  (Bittaya Sanstha),Nepal Rastra Bank,Equity
+APEX,Apex Development Bank Ltd.,Development Banks,D,Apex Development Bank Ltd.,Nepal Rastra Bank,Equity
+GMFIL,Guheshowori Merchant Bank & Finance Co. Ltd.,Finance,A,Guheshowori Merchant Bank & Finance Co. Ltd.,Nepal Rastra Bank,Equity
+IMEFI,IME Financial Institution,Finance,D,IME Financial Institution,Nepal Rastra Bank,Equity
+BFIL,Bhajuratna Finance & Saving Co. Ltd.,Finance,D,Bhajuratna Finance & Saving Co. Ltd.,Nepal Rastra Bank,Equity
+PFLBS,Patan Finance Limited,Finance,D,Patan Finance Limited,Nepal Rastra Bank,Equity
+SUPRME,Supreme Development Bank Ltd.,Development Banks,D,Supreme Development Bank Ltd.,Nepal Rastra Bank,Equity
+SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,Microfinance,A,Swabalamban Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+NCMMF,NIDC Capital Markets Ltd.,Finance,D,NCM Mutual Fund,Nepal Rastra Bank,Mutual Funds
+IFIL,Imperial Financial Inst. Ltd.,Finance,D,Imperial Financial Inst. Ltd.,Nepal Rastra Bank,Equity
+SODBL,Society Development Bank Ltd.,Development Banks,D,Society Development Bank Ltd.,Nepal Rastra Bank,Equity
+CMBSL,Civil Merchant Bittiya Santha Ltd.,Finance,D,Civil Merchant Bittiya Santha Ltd.,Nepal Rastra Bank,Equity
+ICFC,ICFC Finance Limited,Finance,A,ICFC Finance Limited,Nepal Rastra Bank,Equity
+EDBL,Excel Development Bank Ltd.,Development Banks,A,Excel Development Bank Ltd.,Nepal Rastra Bank,Equity
+MLBL1,Mahalaxmi BikasBank Limited,Development Banks,D,Mahalaxmi BikasBank Limited,Nepal Rastra Bank,Equity
+EBLCP,Everest Bank Limited,Commercial Banks,A,Everest Bank Limited Con. Pref.,Nepal Rastra Bank,Preference Shares
+NEFL,Nepal Express Finance Ltd.,Finance,D,Nepal Express Finance Ltd.,Nepal Rastra Bank,Equity
+BLDBL,Biratlaxmi Bikas Bank Limited,Development Banks,D,Biratlaxmi Bikas Bank Limited,Nepal Rastra Bank,Equity
+SIL,Siddhartha Insurance Ltd.,Non Life Insurance,A,Siddhartha Insurance Ltd.,Nepal Insurance Board,Equity
+IDBL,Infrastructure Development Bank Ltd.,Development Banks,D,Infrastructure Development Bank Ltd.,Nepal Rastra Bank,Equity
+CEFL,City Express Finance Co. Limited,Finance,D,City Express Finance Co. Limited,Nepal Rastra Bank,Equity
+NTC,Nepal Doorsanchar Comapany Limited,Others,A,Nepal Doorsanchar Comapany Limited,N/A,Equity
+PRBBL,Prabhu Bikas Bank Limited,Development Banks,D,Prabhu Bikas Bank Limited,Nepal Rastra Bank,Equity
+DBBL,Deva Bikas Bank Limited,Development Banks,D,Deva Bikas Bank Limited,Nepal Rastra Bank,Equity
+LBFIL,Lord Buddha Finance Limited,Finance,D,Lord Buddha Finance Limited,Nepal Rastra Bank,Equity
+SAFL,Sagarmatha  Finance Limited,Finance,D,Sagarmatha  Finance Limited,Nepal Rastra Bank,Equity
+SUBBL,Subhechha Bikas Bank Limited,Development Banks,D,Subhechha Bikas Bank Limited,Nepal Rastra Bank,Equity
+KAFIL,Kaski Finance Limited,Finance,D,Kaski Finance Limited,Nepal Rastra Bank,Equity
+CEDBL,Clean Energy Development Bank Limited,Development Banks,D,Clean Energy Development Bank Limited,Nepal Rastra Bank,Equity
+TBBL,Triveni Bikas Bank Limited,Development Banks,D,Triveni Bikas Bank Limited,Nepal Rastra Bank,Equity
+PROFL,ProgressiveFinance Limited,Finance,A,ProgressiveFinance Limited,Nepal Rastra Bank,Equity
+PGBL,Purwanchal Grameen Bikash Bank Limited,Development Banks,D,Purwanchal Grameen Bikash Bank Limited,Nepal Rastra Bank,Equity
+GBIME,Global IME Bank Limited,Commercial Banks,A,Global IME Bank Limited,Nepal Rastra Bank,Equity
+REDBL,Reliable Development Bank Limited,Development Banks,D,Reliable Development Bank Limited,Nepal Rastra Bank,Equity
+AXIS,Axis Development Bank Limited,Development Banks,D,Axis Development Bank Limited,Nepal Rastra Bank,Equity
+SBSL,Shikhar Finance Limited,Finance,D,Shikhar Finance Limited,Nepal Rastra Bank,Equity
+CZBIL,Citizen Bank International Limited,Commercial Banks,A,Citizen Bank International Limited,Nepal Rastra Bank,Equity
+BOAN,Bank of Asia Nepal Limited,Commercial Banks,D,Bank of Asia Nepal Limited,Nepal Rastra Bank,Equity
+AFL,Api Finance Limited,Finance,D,Api Finance Limited,Nepal Rastra Bank,Equity
+PCBL,Prime Commercial Bank Ltd.,Commercial Banks,A,Prime Commercial Bank Ltd.,Nepal Rastra Bank,Equity
+LBBL,Lumbini Bikas Bank Ltd.,Development Banks,A,Lumbini Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+SRBL,Sunrise Bank Limited,Commercial Banks,A,Sunrise Bank Limited,Nepal Rastra Bank,Equity
+AHPC,Arun Valley Hydropower Development Co. Ltd.,Hydro Power,A,Arun Valley Hydropower Development Co. Ltd.,Nepal Hydropower Board,Equity
+CFL,Crystal Finance Ltd.,Finance,S,Crystal Finance Ltd.,Nepal Rastra Bank,Equity
+MGBL,Madhyamanchal Gramin Development Bank Ltd.,Development Banks,D,Madhyamanchal Gramin Development Bank Ltd.,Nepal Rastra Bank,Equity
+PDB,Public Development Bank Limited,Development Banks,D,Public Development Bank Limited,Nepal Rastra Bank,Equity
+MBBL,Mahakali Bikas Bank Limited,Development Banks,D,Mahakali Bikas Bank Limited,Nepal Rastra Bank,Equity
+MDB,Miteri Development Bank Limited,Development Banks,A,Miteri Development Bank Limited,Nepal Rastra Bank,Equity
+PBSL,Pathibhara Bikas Bank Limited,Development Banks,D,Pathibhara Bikas Bank Limited,Nepal Rastra Bank,Equity
+RBSL,Resunga Bikas Bank Limited,Development Banks,D,Resunga Bikas Bank Limited,Nepal Rastra Bank,Equity
+ALICL,Asian Life Insurance Co. Limited,Life Insurance,A,Asian Life Insurance Co. Limited,Nepal Insurance Board,Equity
+KDBL,Kasthamandap Development Bank Limited,Development Banks,D,Kasthamandap Development Bank Limited,Nepal Rastra Bank,Equity
+SEWA,Sewa Bikas Bank Limited,Development Banks,D,Sewa Bikas Bank Limited,Nepal Rastra Bank,Equity
+PLIC,Prime Life Insurance Company Limited,Life Insurance,A,Prime Life Insurance Company Limited,Nepal Insurance Board,Equity
+NGBL,Nilgiri Bikas Bank Limited,Development Banks,D,Nilgiri Bikas Bank Limited,Nepal Rastra Bank,Equity
+NLBBL,Nerude Laghubita Bikas Bank Limited,Microfinance,A,Nerude Laghubita Bikas Bank Limited,Nepal Rastra Bank,Equity
+ADBL,Agriculture Development Bank Limited,Commercial Banks,A,Agriculture Development Bank Limited,Nepal Rastra Bank,Equity
+ODBL,Om Development Bank Ltd.,Development Banks,D,Om Development Bank Ltd.,Nepal Rastra Bank,Equity
+MLBL,Mahalaxmi Bikas Bank Ltd.,Development Banks,A,Mahalaxmi Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+SLICL,Surya Life Insurance Company Limited,Life Insurance,A,Surya Life Insurance Company Limited,Nepal Insurance Board,Equity
+UBBL,Udhyam Bikas Bank Limited,Development Banks,D,Udhyam Bikas Bank Limited,Nepal Rastra Bank,Equity
+ALDBL,Alpine Development Bank Limited,Development Banks,D,Alpine Development Bank Limited,Nepal Rastra Bank,Equity
+SDFL,Suryadarshan Finance Company Limited,Finance,D,Suryadarshan Finance Company Limited,Nepal Rastra Bank,Equity
+ZFL,Zenith Finance Limited,Finance,D,Zenith Finance Limited,Nepal Rastra Bank,Equity
+SMF,Swastik Merchant Finance Co. Ltd.,Finance,D,Swastik Merchant Finance Co. Ltd.,Nepal Rastra Bank,Equity
+SLFL,Subha Laxmi Finance Co. Ltd.,Finance,D,Subha Laxmi Finance Co. Ltd.,Nepal Rastra Bank,Equity
+GSDBL,Gaurishankar Development Bank Ltd.,Development Banks,D,Gaurishankar Development Bank Ltd.,Nepal Rastra Bank,Equity
+UFIL,Unique Finance Ltd.,Finance,D,Unique Finance Ltd.,Nepal Rastra Bank,Equity
+PRDBL,Professional Diyalo Bikas Bank Ltd.,Development Banks,D,Professional Diyalo Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+SETI,Seti Finance Limited,Finance,D,Seti Finance Limited,Nepal Rastra Bank,Equity
+GBBL,Garima Bikas Bank Limited,Development Banks,A,Garima Bikas Bank Limited,Nepal Rastra Bank,Equity
+JBBL,Jyoti Bikas Bank Limited,Development Banks,A,Jyoti Bikas Bank Limited,Nepal Rastra Bank,Equity
+KNBL,Kankai Bikas Bank Ltd.,Development Banks,D,Kankai Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+GDBL,Gandaki Bikas Bank Limited,Development Banks,D,Gandaki Bikas Bank Limited,Nepal Rastra Bank,Equity
+HATH,Hathway Finance Company Limited,Finance,D,Hathway Finance Company Limited,Nepal Rastra Bank,Equity
+KEBL,Kabeli Bikas Bank Limited,Development Banks,D,Kabeli Bikas Bank Limited,Nepal Rastra Bank,Equity
+KRBL,Karnali Development Bank Limited,Development Banks,A,Karnali Development Bank Limited,Nepal Rastra Bank,Equity
+HFL,Himalayan Finance Limited (Bittiya Sanstha),Finance,S,Himalayan Finance Limited (Bittiya Sanstha),Nepal Rastra Bank,Equity
+TNBL,Tinau Development Bank Limited,Development Banks,D,Tinau Development Bank Limited,Nepal Rastra Bank,Equity
+ARDBL,Araniko Development Bank Limited,Development Banks,D,Araniko Development Bank Limited,Nepal Rastra Bank,Equity
+VFL,Valley Finance Limited,Finance,D,Valley Finance Limited,Nepal Rastra Bank,Equity
+WDBL,Western Development Bank Limited,Development Banks,D,Western Development Bank Limited,Nepal Rastra Bank,Equity
+PRBL,Professional Bikas Bank Ltd.,Development Banks,D,Professional Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+GLICL,Gurans Life Insurance Company Ltd.,Life Insurance,A,Gurans Life Insurance Company Ltd.,Nepal Insurance Board,Equity
+CNDBL,Country Development Bank Ltd.,Development Banks,D,Country Development Bank Ltd.,Nepal Rastra Bank,Equity
+CORBL,Corporate Development Bank Limited,Development Banks,A,Corporate Development Bank Limited,Nepal Rastra Bank,Equity
+PURBL,Purnima Bikas Bank Ltd.,Development Banks,D,Purnima Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+KSBBL,Kamana Sewa Bikas Bank Limited,Development Banks,A,Kamana Sewa Bikas Bank Limited,Nepal Rastra Bank,Equity
+RARA,Rara Bikas Bank Limited,Development Banks,D,Rara Bikas Bank Limited,Nepal Rastra Bank,Equity
+HAMA,Hama Merchant & Finance Ltd.,Finance,D,Hama Merchant & Finance Ltd.,Nepal Rastra Bank,Equity
+MPFL,Multipurpose Finance Company  Limited,Finance,A,Multipurpose Finance Company  Limited,Nepal Rastra Bank,Equity
+SADBL,Shangrila Development Bank Ltd.,Development Banks,A,Shangrila Development Bank Ltd.,Nepal Rastra Bank,Equity
+SHINE,Shine Resunga Development Bank Ltd.,Development Banks,A,Shine Resunga Development Bank Ltd.,Nepal Rastra Bank,Equity
+MNBBL,Muktinath Bikas Bank Ltd.,Development Banks,A,Muktinath Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+BHBL,Bhargav Bikash Bank Ltd.,Development Banks,D,Bhargav Bikash Bank Ltd.,Nepal Rastra Bank,Equity
+BGDBL,Bagmati Development Bank Ltd.,Development Banks,D,Bagmati Development Bank Ltd.,Nepal Rastra Bank,Equity
+FMDBL,First Micro Finance Development Bank Ltd.,Microfinance,A,First Micro Finance Development Bank Ltd.,Nepal Rastra Bank,Equity
+JBNL,Janata Bank Nepal Ltd.,Commercial Banks,D,Janata Bank Nepal Ltd.,Nepal Rastra Bank,Equity
+SMFDB,Summit Micro Finance Development Bank Ltd.,Microfinance,A,Summit Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+TDBL,Tourism Development Bank Limited,Development Banks,D,Tourism Development Bank Limited,Nepal Rastra Bank,Equity
+GULMI,Gulmi Bikas Bank Ltd.,Development Banks,D,Gulmi Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+KADBL,Kanchan Development Bank Limited,Development Banks,D,Kanchan Development Bank Limited,Nepal Rastra Bank,Equity
+NCDBL,Nepal Consumer Development Bank Ltd.,Development Banks,D,Nepal Consumer Development Bank Ltd.,Nepal Rastra Bank,Equity
+PADBL,Pacific Development Bank Limited,Development Banks,D,Pacific Development Bank Limited,Nepal Rastra Bank,Equity
+METRO,Metro Development Bank Limited,Development Banks,D,Metro Development Bank Limited,Nepal Rastra Bank,Equity
+RDBL,Rising Development Bank Ltd.,Development Banks,D,Rising Development Bank Ltd.,Nepal Rastra Bank,Equity
+MFIL,Manjushree Finance Ltd.,Finance,A,Manjushree Finance Ltd.,Nepal Rastra Bank,Equity
+NBL,Nepal Bank Limited,Commercial Banks,A,Nepal Bank Limited,Nepal Rastra Bank,Equity
+SIGS1,Siddhartha Bank Limited,Commercial Banks,D,Siddhartha Investment Growth Scheme-1,Nepal Rastra Bank,Mutual Funds
+INDB,Innovative Development Bank Ltd.,Development Banks,D,Innovative Development Bank Ltd.,Nepal Rastra Bank,Equity
+KKBL,Kakre Bihar Bikash Bank Ltd,Development Banks,D,Kakre Bihar Bikash Bank Ltd,Nepal Rastra Bank,Equity
+CBL,Civil Bank Ltd,Commercial Banks,A,Civil Bank Ltd,Nepal Rastra Bank,Equity
+CIVIC,Civic Development Bank Ltd,Development Banks,D,Civic Development Bank Ltd,Nepal Rastra Bank,Equity
+BRTBL,Bright Development Bank Ltd,Development Banks,D,Bright Development Bank Ltd,Nepal Rastra Bank,Equity
+INDBL,International Development Bank Ltd,Development Banks,D,International Development Bank Ltd,Nepal Rastra Bank,Equity
+KHDBL,Khandbari Development Bank Ltd,Development Banks,D,Khandbari Development Bank Ltd,Nepal Rastra Bank,Equity
+NBF1,Nabil Bank Limited,Commercial Banks,D,Nabil Balance Fund 1,Nepal Rastra Bank,Mutual Funds
+CTBNL,Commerz and Trust Bank Nepal Ltd.,Commercial Banks,D,Commerz and Trust Bank Nepal Ltd.,Nepal Rastra Bank,Equity
+SLBBL,Swarojgar Laghu Bitta Bikas Bank Ltd.,Microfinance,A,Swarojgar Laghu Bitta Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+NLG,NLG Insurance Company Ltd.,Non Life Insurance,A,NLG Insurance Company Ltd.,Nepal Insurance Board,Equity
+SINDU,Sindhu Bikash Bank Ltd,Development Banks,A,Sindhu Bikash Bank Ltd,Nepal Rastra Bank,Equity
+MEGA,Mega  Bank Nepal Ltd.,Commercial Banks,A,Mega  Bank Nepal Ltd.,Nepal Rastra Bank,Equity
+JHBL,Jhimruk Bikas Bank Ltd.,Development Banks,D,Jhimruk Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+MIDBL,Mission Development Bank Ltd.,Development Banks,D,Mission Development Bank Ltd.,Nepal Rastra Bank,Equity
+NBSL,Namaste Bittiya Sanstha Ltd.,Finance,D,Namaste Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+GABL,Gaumukhee Bikas Bank Ltd.,Development Banks,D,Gaumukhee Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+SKBBL,Sana Kisan Bikas Bank Ltd,Microfinance,A,Sana Kisan Bikas Bank Ltd,Nepal Rastra Bank,Equity
+RMDC,RMDC Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,RMDC Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+HAMRO,Hamro Bikas Bank Ltd.,Development Banks,D,Hamro Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+JEFL,Jebils Finance Ltd.,Finance,D,Jebils Finance Ltd.,Nepal Rastra Bank,Equity
+GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+RLFL,Reliance Finance Ltd.,Finance,A,Reliance Finance Ltd.,Nepal Rastra Bank,Equity
+MSBBL,Manaslu Bikas Bank Ltd.,Development Banks,D,Manaslu Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+SHPC,Sanima Mai Hydropower Ltd.,Hydro Power,A,Sanima Mai Hydropower Ltd.,Nepal Hydropower Board,Equity
+SNLB,Sarathi Nepal Laghubitta Bittiya Sanstha Limited,Microfinance,A,Sarathi Nepal Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+KMCDB,Kalika Microcredit Development Bank Ltd.,Microfinance,A,Kalika Microcredit Development Bank Ltd.,Nepal Rastra Bank,Equity
+MTBL,Matribhumi Development Bank Ltd.,Development Banks,D,Matribhumi Development Bank Ltd.,Nepal Rastra Bank,Equity
+NCDB,Nepal Community Development Bank Ltd.,Development Banks,D,Nepal Community Development Bank Ltd.,Nepal Rastra Bank,Equity
+CSDBL,Cosmos Development Bank Ltd.,Development Banks,D,Cosmos Development Bank Ltd.,Nepal Rastra Bank,Equity
+MLBBL,Mithila LaghuBitta Bittiya Sanstha Limited,Microfinance,A,Mithila LaghuBitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+NBBL,NagBeli LaghuBitta Bikas Bank Ltd.,Microfinance,D,NagBeli LaghuBitta Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+CCBL,Century Commercial Bank Ltd.,Commercial Banks,A,Century Commercial Bank Ltd.,Nepal Rastra Bank,Equity
+TRHPR,Taragaon Regency Hotel Limited,Hotels And Tourism,D,Taragaon Regency Hotels Ltd. Preference Share,Ministry of Tourism,Preference Shares
+RHPC,Ridi Hydropower Development Company Ltd.,Hydro Power,A,Ridi Hydropower Development Company Ltd.,Nepal Hydropower Board,Equity
+MMDBL,Mount Makalu Development Bank Ltd.,Development Banks,D,Mount Makalu Development Bank Ltd.,Nepal Rastra Bank,Equity
+SEOS,Siddhartha Bank Limited,Commercial Banks,S,Siddhartha Equity Orineted Scheme,Nepal Rastra Bank,Mutual Funds
+EKBL,Ekata Bikas Bank Ltd.,Development Banks,D,Ekata Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Laxmi Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SHBL,Sahara Bikas Bank Ltd.,Development Banks,S,Sahara Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+KCDBL,Kalinchowk Development Bank Ltd.,Development Banks,D,Kalinchowk Development Bank Ltd.,Nepal Rastra Bank,Equity
+NMBSF1,NMB Bank Limited,Commercial Banks,D,NMB Sulav Investment Fund-1,Nepal Rastra Bank,Mutual Funds
+NIBSF1,Nepal Investment Bank Limited,Commercial Banks,A,NIBL Samriddhi Fund 1,Nepal Rastra Bank,Mutual Funds
+LVF1,Laxmi Bank Limited,Commercial Banks,D,Laxmi Value Fund-1,Nepal Rastra Bank,Mutual Funds
+RBBBL,Raptibheri Bikas Bank Ltd.,Development Banks,D,Raptibheri Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+BFCL,Bhaktapur Finance Co. Ltd.,Finance,D,Bhaktapur Finance Co. Ltd.,Nepal Rastra Bank,Equity
+MMFDB,Mirmire Microfinance Development Bank Ltd.,Microfinance,A,Mirmire Microfinance Development Bank Ltd.,Nepal Rastra Bank,Equity
+BARUN,Barun Hydropower Co. Ltd.,Hydro Power,A,Barun Hydropower Co. Ltd.,Nepal Hydropower Board,Equity
+VLBS,Vijaya laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Vijaya laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+MSMBS,Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.,Microfinance,S,Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SBLD78,Siddhartha Bank Limited,Commercial Banks,D,7.5% sbl debenture,Nepal Rastra Bank,Mutual Funds
+CLBSL,Civil Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Civil Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+KLBSL,Kisan Lagubitta Bittiya Sanstha Limited,Microfinance,A,Kisan Lagubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+JSLBB,Janautthan Samudayic Laghubitta Bikas Bank Ltd.,Microfinance,A,Janautthan Samudayic Laghubitta Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+API,Api Power Company Ltd.,Hydro Power,A,Api Power Company Ltd.,Nepal Hydropower Board,Equity
+NMBMF,NMB  Microfinance Bittiya Sanstha Ltd.,Microfinance,A,NMB  Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+GILB,Global IME Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Global IME Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+WOMI,Womi Microfinance Bittiya Sanstha Ltd.,Microfinance,A,Womi Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SKDBL,Saptakoshi Development Bank Ltd.,Development Banks,D,Saptakoshi Development Bank Ltd.,Nepal Rastra Bank,Equity
+SAJHA,Sajha Bikas Bank Ltd.,Development Banks,D,Sajha Bikas Bank Ltd.,Nepal Rastra Bank,Equity
+GIMES1,Global IME Bank Limited,Commercial Banks,A,Global IME Samunnat Scheme-1,Nepal Rastra Bank,Mutual Funds
+MERO,Mero Microfinance Bittiya Sanstha Ltd.,Microfinance,A,Mero Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+HIDCL,Hydorelectricity Investment and Development Company Ltd,Investment,A,Hydorelectricity Investment and Development Company Ltd,Nepal Rastra Bank,Equity
+NGPL,Ngadi Group Power Ltd.,Hydro Power,A,Ngadi Group Power Ltd.,Nepal Hydropower Board,Equity
+GRDBL,Green Development Bank Ltd.,Development Banks,A,Green Development Bank Ltd.,Nepal Rastra Bank,Equity
+NMFBS,National Microfinance Bittiya Sanstha Ltd.,Microfinance,A,National Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+RSDC,RSDC Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,RSDC Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SLBS,Suryodaya Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Suryodaya Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+KKHC,Khanikhola Hydropower Co. Ltd.,Hydro Power,A,Khanikhola Hydropower Co. Ltd.,Nepal Hydropower Board,Equity
+NMBHF1,NMB Bank Limited,Commercial Banks,A,NMB Hybrid Fund L-1,Nepal Rastra Bank,Mutual Funds
+NEF,Nabil Bank Limited,Commercial Banks,A,Nabil Equity Fund,Nepal Rastra Bank,Mutual Funds
+DHPL,Dibyashwori Hydropower Ltd.,Hydro Power,A,Dibyashwori Hydropower Ltd.,Nepal Hydropower Board,Equity
+NIBLPF,Nepal Investment Bank Limited,Commercial Banks,A,NIBL Pragati Fund,Nepal Rastra Bank,Mutual Funds
+AKPL,Arun Kabeli Power Ltd.,Hydro Power,A,Arun Kabeli Power Ltd.,Nepal Hydropower Board,Equity
+FOWAD,Forward Community Microfinance Bittiya Sanstha Ltd.,Microfinance,A,Forward Community Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SPDL,Synergy Power Development Ltd.,Hydro Power,A,Synergy Power Development Ltd.,Nepal Hydropower Board,Equity
+UMHL,United Modi Hydropower Ltd.,Hydro Power,A,United Modi Hydropower Ltd.,Nepal Hydropower Board,Equity
+SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,Microfinance,A,Samata Gharelu Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+SDESI,Swadeshi Laghubitta Bittiya Sanstha Ltd.,Microfinance,D,Swadeshi Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+LEMF,Laxmi Bank Limited,Commercial Banks,A,Laxmi Equity Fund,Nepal Rastra Bank,Mutual Funds
+CHL,Chhyangdi Hydropower Ltd.,Hydro Power,A,Chhyangdi Hydropower Ltd.,Nepal Hydropower Board,Equity
+HPPL,Himalayan Power Partner Ltd.,Hydro Power,A,Himalayan Power Partner Ltd.,Nepal Hydropower Board,Equity
+MSLB,Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+NHDL,Nepal Hydro Developers Ltd.,Hydro Power,A,Nepal Hydro Developers Ltd.,Nepal Hydropower Board,Equity
+SEF,Siddhartha Bank Limited,Commercial Banks,A,Siddhartha Equity Fund,Nepal Rastra Bank,Mutual Funds
+SMB,Support Microfinance Bittiya Sanstha Ltd.,Microfinance,A,Support Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+SAEF,Sanima Bank Limited,Commercial Banks,A,Sanima Equity Fund,Nepal Rastra Bank,Mutual Funds
+USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,Microfinance,A,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+RADHI,Radhi Bidyut Company Ltd,Hydro Power,A,Radhi Bidyut Company Ltd,Nepal Hydropower Board,Equity
+AMFI,Arambha Microfinance Bittiya Sanstha Ltd.,Microfinance,D,Arambha Microfinance Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+NICGF,NIC Asia Bank Ltd.,Commercial Banks,A,NIC Asia Growth Fund,Nepal Rastra Bank,Mutual Funds
+CMF1,Citizen Bank International Limited,Commercial Banks,A,Citizens Mutual Fund -1,Nepal Rastra Bank,Mutual Funds
+NSEWA,Nepal Seva Laghubitta Bittiya Sanstha Ltd.,Microfinance,S,Nepal Seva Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+RRHP,Rairang Hydropower Development Company Ltd.,Hydro Power,A,Rairang Hydropower Development Company Ltd.,Nepal Hydropower Board,Equity
+NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,Microfinance,S,Nadep Laghubittiya bittya Sanstha Ltd.,Nepal Rastra Bank,Equity
+PMHPL,Panchakanya Mai Hydropower Ltd,Hydro Power,A,Panchakanya Mai Hydropower Ltd,Nepal Hydropower Board,Equity
+KPCL,Kalika power Company Ltd,Hydro Power,A,Kalika power Company Ltd,Nepal Hydropower Board,Equity
+AKJCL,Ankhu Khola Jalvidhyut Company Limited,Hydro Power,A,Ankhu Khola Jalvidhyut Company Ltd,Nepal Hydropower Board,Equity
+JOSHI,Joshi Hydropower Development Company Ltd,Hydro Power,A,Joshi Hydropower Development Company Ltd,Nepal Hydropower Board,Equity
+ACLBSL,Aarambha Chautari Laghubitta Bittya Sanstha Limited,Microfinance,A,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+UPPER,Upper Tamakoshi Hydropower Ltd,Hydro Power,A,Upper Tamakoshi Hydropower Ltd,Nepal Hydropower Board,Equity
+SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,Microfinance,A,Samudayik Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+GHL,Ghalemdi Hydro Limited,Hydro Power,A,Ghalemdi Hydro Limited,Nepal Hydropower Board,Equity
+ALBSL,Asha Laghubitta Bittiya Sanstha Ltd.,Microfinance,A,Asha Laghubitta Bittiya Sanstha Ltd,Nepal Rastra Bank,Equity
+SHIVM,Shivam Cements Limited,Manufacturing And Processing,A,SHIVAM CEMENTS LTD,Department of Industry,Equity
+UPCL,Universal Power Company Limited,Hydro Power,A,UNIVERSAL POWER COMPANY LTD,Nepal Hydropower Board,Equity
+MHNL,Mountain Hydro Nepal Limited,Hydro Power,A,Mountain Hydro Nepal Limited,Nepal Hydropower Board,Equity
+SPARS,Sparsha Laghubitta Bittiya Sanstha Limited,Microfinance,S,Sparsha Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+PPCL,Panchthar Power Company Ltd,Hydro Power,A,Panchthar Power Compant Limited,Nepal Hydropower Board,Equity
+GMFBS,Ganapati Microfinance Bittiya Sanstha Ltd.,Microfinance,A,Ganapati Microfinance Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+NAGRO,Nepal Agro Laghubitta Bittiya Sanstha Ltd.,Microfinance,S,Nepal Agro Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+HURJA,Himalaya Urja Bikas Company Limited,Hydro Power,A,Himalaya Urja Bikas Company Limited,Nepal Hydropower Board,Equity
+NICAD 85/86,NIC Asia Bank Ltd.,Commercial Banks,A,10% NIC Asia Debenture 2085/86,Nepal Rastra Bank,Non-Convertible Debentures
+GLBSL,Gurans Laghubitta Bittiya Sanstha Ltd,Microfinance,A,Gurans Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+SAND2085,Sanima Bank Limited,Commercial Banks,A,10% Sanima Bank Limited Debenture,Nepal Rastra Bank,Non-Convertible Debentures
+SMFBS,Swabhumaan Laghubitta Bittiya Sanstha Ltd,Microfinance,A,Swabhimaan Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+UNHPL,Union Hydropower Limited,Hydro Power,A,Union Hydropower Limited,Nepal Hydropower Board,Equity
+ILBS,Infinity Laghubitta Bittiya Sastha Ltd,Microfinance,A,Infinity Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+SRD80,Sunrise Bank Limited,Commercial Banks,A,10% Sunrise Debenture 2080,Nepal Rastra Bank,Non-Convertible Debentures
+NBF2,Nabil Bank Limited,Commercial Banks,A,NABIL BALANCED FUND-2,Nepal Rastra Bank,Mutual Funds
+GBD80/81,Global IME Bank Limited,Commercial Banks,A,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,Nepal Rastra Bank,Non-Convertible Debentures
+RHPL,Rasuwagadhi Hydropower Company Limited,Hydro Power,A,RASUWAGADHI HYDROPOWER COMPANY LIMITED,Nepal Hydropower Board,Equity
+SJCL,SANJEN JALAVIDHYUT COMPANY LTD,Hydro Power,A,SANJEN JALAVIDHYUT COMPANY LIMITED,Nepal Hydropower Board,Equity
+SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,Microfinance,A,SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED,Nepal Rastra Bank,Equity
+AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,Microfinance,S,ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED,Nepal Rastra Bank,Equity
+NMBD2085,NMB Bank Limited,Commercial Banks,A,10 % NMB DEBENTURE 2085,Nepal Rastra Bank,Non-Convertible Debentures
+NIBD2082,Nepal Investment Bank Limited,Commercial Banks,A,10.5 % NEPAL INVESTMENT DEBENTURE 2082,Nepal Rastra Bank,Non-Convertible Debentures
+GGBSL,ghodighoda laghubitta bittiya sanstha ltd,Microfinance,S,Ghodighoda Laghubitta Bittiya Sanstha Ltd.,Nepal Rastra Bank,Equity
+NBBD2085,Nepal Bangladesh Bank Limited,Commercial Banks,A,10.25% NBBL Debenture 2085,Nepal Rastra Bank,Non-Convertible Debentures
+TMDBL,Tinau Mission Development Bank Ltd,Development Banks,S,Tinau Mission Development Bank Limited,Nepal Rastra Bank,Equity
+SIGS2,Siddhartha Bank Limited,Commercial Banks,A,Siddhartha Investment Growth Scheme - 2,Nepal Rastra Bank,Mutual Funds
+SAPDBL,Saptakoshi Development bank Ltd,Development Banks,A,Saptakoshi Development Bank Ltd,Nepal Rastra Bank,Equity
+CMF2,CBIL Capital Limited,Mutual Fund,A,CITIZENS MUTUAL FUND 2,Nepal Rastra Bank,Mutual Funds
+NICBF,NIC ASIA Capital Ltd,Mutual Fund,A,NIC Asia Balanced Fund,Nepal Rastra Bank,Mutual Funds
+SBLD83,Siddhartha Bank Limited,Commercial Banks,A,10.25% SBL Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+MBLD2085,Machhapuchhre Bank Limited,Commercial Banks,A,10.25% Machhapuchhre Bank Debenture 2085,Nepal Rastra Bank,Non-Convertible Debentures
+NMB50,NMB Capital Ltd.,Mutual Fund,A,NMB 50,Nepal Rastra Bank,Mutual Funds
+NICD83/84,NIC Asia Bank Ltd.,Commercial Banks,A,10.25% NIC Asia Debenture 2083/84,Nepal Rastra Bank,Non-Convertible Debentures
+NICAD8283,NIC Asia Bank Ltd.,Commercial Banks,A,11% NIC Asia Debenture 082/83,Nepal Rastra Bank,Non-Convertible Debentures
+BOKD2079,Bank of Kathmandu Ltd.,Commercial Banks,A,8% BOK Debenture 2079,Nepal Rastra Bank,Non-Convertible Debentures
+EBLD2078,Everest Bank Limited,Commercial Banks,A,8% EBL Debenture 2078,Nepal Rastra Bank,Non-Convertible Debentures
+SBLD2082,Siddhartha Bank Limited,Commercial Banks,A,10.50% SBL Debenture 2082,Nepal Rastra Bank,Non-Convertible Debentures
+HBLD83,Himalayan Bank Limited,Commercial Banks,A,10% Himalayan Bank Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+PBLD86,Prabhu  Bank Limited,Commercial Banks,A,10.25% Prabhu Bank  Debenture 2086,Nepal Rastra Bank,Non-Convertible Debentures
+SFMF,Sunrise Bank Limited,Commercial Banks,A,Sunrise First Mutual Fund,Nepal Rastra Bank,Mutual Funds
+SRBLD83,Sunrise Bank Limited,Commercial Banks,A,10.25% Sunrise Bank Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+LBLD86,Laxmi Bank Limited,Commercial Banks,A,10% Laxmi Bank Debenture 2086,Nepal Rastra Bank,Non-Convertible Debentures
+HDHPC,Himal Dolakha Hydropower Com. Ltd.,Hydro Power,A,Himal Dolakha Hydropower Company Limited,Nepal Hydropower Board,Equity
+NRIC,Nepal Reinsurance Company Limited,Others,A,Nepal Reinsurance Company Limited,N/A,Equity
+ICFCD83,ICFC Finance Limited,Finance,A,12% ICFC Finance Limited Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+GWFD83,Goodwill Finance Co. Ltd.,Finance,A,12 % Goodwill Finance Limited Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+KBLD86,Kumari Bank Limited,Commercial Banks,A,10.25% KBL Debenture 2086,Nepal Rastra Bank,Non-Convertible Debentures
+ADBLD83,Agriculture Development Bank Limited,Commercial Banks,A,10.35% Agricultural Bank Debenture 2083,Nepal Rastra Bank,Non-Convertible Debentures
+NICLBSL,NIC ASIA Laghubitta Bittiya Sanstha Limited,Microfinance,A,NIC ASIA Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+CIZBD86,Citizen Bank International Limited,Commercial Banks,A,10.25% Citizens Bank Debenture 2086,Nepal Rastra Bank,Non-Convertible Debentures
+SBIBD86,Nepal SBI Bank Limited,Commercial Banks,A,10% Nepal SBI Bank Debenture 2086,Nepal Rastra Bank,Non-Convertible Debentures
+NBLD82,Nabil Bank Limited,Commercial Banks,A,10% Nabil Debenture 2082,Nepal Rastra Bank,Non-Convertible Debentures
+AIL,Ajod Insurance Ltd,Non Life Insurance,A,Ajod Insurance Limited,Nepal Insurance Board,Equity
+NICAD8182,NIC Asia Bank Ltd.,Commercial Banks,A,9% NIC Asia Debenture 2081/82,Nepal Rastra Bank,Non-Convertible Debentures
+SDLBSL,Sadhana Laghubitta Bittyia Sanstha Limited,Microfinance,A,Sadhana Laghubitta Bittiya Sanstha Limited,Nepal Rastra Bank,Equity
+NRN,NRN Infrastructure and Development Limited,Investment,A,NRN Infrastructure and Development Limited,Nepal Rastra Bank,Equity
+RLI,Reliance Life Insurance Limited,Life Insurance,A,Reliance Life Insurance Limited,Nepal Insurance Board,Equity
+LUK,Laxmi Capital Market Limited,Mutual Fund,A,Laxmi Unnati Kosh,Nepal Rastra Bank,Mutual Funds
+LEC,Liberty Energy Company Limited,Hydro Power,A,Liberty Energy Company Limited,Nepal Hydropower Board,Equity
+PBLD84,Prabhu  Bank Limited,Commercial Banks,A,10% Prabhu Bank Debenture 2084 ,Nepal Rastra Bank,Non-Convertible Debentures
+GIC,General Insurance Company Nepal Ltd,Non Life Insurance,A,General Insurance Company Nepal Ltd,Nepal Insurance Board,Equity
+SSHL,Shiva Shree Hydropower Limited,Hydro Power,A,Shiva Shree Hydropower Ltd,Nepal Hydropower Board,Equity
+SGI,Sanima General Insurance Ltd,Non Life Insurance,A,Sanima General Insurance Limited,Nepal Insurance Board,Equity
+SBLD84,Siddhartha Bank Limited,Commercial Banks,A,8.5% SBL Debenture 2084,Nepal Rastra Bank,Non-Convertible Debentures
+MEN,Mountain Energy Nepal Limited,Hydro Power,A,Mountain Energy Nepal Limited,Nepal Hydropower Board,Equity
+UMRH,United Idi Mardi & RB Hydropower Ltd,Hydro Power,A,United IDI Mardi RB Hydropower Limited.,Nepal Hydropower Board,Equity
+PLI,Prabhu Life Insurance Limited,Life Insurance,A,Prabhu Life Insurance Limited,Nepal Insurance Board,Equity
+CGH,Chandragiri Hills Limited,Hotels And Tourism,A,Chandragiri Hills Limited,Ministry of Tourism,Equity
+NIFRA,Nepal Infrastructure Bank Limited,Investment,A,Nepal Infrastructure Bank Limited,Nepal Rastra Bank,Equity
+SBD87,Sanima Bank Limited,Commercial Banks,A,8.5% Sanima Debenture 2087,Nepal Rastra Bank,Non-Convertible Debentures
+SLCF,Sanima Bank Limited,Commercial Banks,A,Sanima Large Cap Fund,Nepal Rastra Bank,Mutual Funds
+GLH,Greenlife Hydropower Limited,Hydro Power,A,GreenLife Hydropower Limited,Nepal Hydropower Board,Equity
+MLBSL,Mahila Laghubitta Bittiya Sanstha Ltd,Microfinance,A,Mahila Lagubitta Bittiya Sanstha Limited ,Nepal Rastra Bank,Equity
+JLI,Jyoti Life Insurance Ltd,Life Insurance,A,Jyoti Life Insurance Ltd,Nepal Insurance Board,Equity
+NIBD84,Nepal Investment Bank Limited,Commercial Banks,A,8.5% Nepal Investment Bank Debenture 2084,Nepal Rastra Bank,Non-Convertible Debentures
+MFLD85,Manjushree Finance Ltd.,Finance,A,9.5% Manjushree Finance Limited Debenture 2085,Nepal Rastra Bank,Non-Convertible Debentures
+KEF,Kumari Bank Limited,Commercial Banks,A,Kumari Equity Fund,Nepal Rastra Bank,Mutual Funds
+SHEL,Singati Hydro Energy Ltd,Hydro Power,A,Singati Hydro Energy Limited,Nepal Hydropower Board,Equity
+RURU,Ru Ru Jalbidhyut Pariyojana Limited,Hydro Power,A,Ru Ru Jalbidhyut Pariyojana Limited,Nepal Hydropower Board,Equity
