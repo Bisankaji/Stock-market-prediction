@@ -102,31 +102,42 @@ function Suggestion() {
     Submit Suggestion
   </button>
 ) : (
-  <p className="mt-4 text-red-500 font-medium">Please log in to submit a suggestion.<NavLink className="bg-green-500 text-white cursor-pointer p-1 rounded ml-3" to="/login" >Login here</NavLink></p>
- 
-)}
+  <p className="mt-4 text-red-500 font-medium">Please log in to submit a suggestion.<NavLink className="text-white bg-blue-500 hover:bg-blue-600 px-3 py-1 rounded-lg font-medium shadow-sm transition ml-3" to="/login" >Login here</NavLink></p>
+  
 
+)}
           </div>
         </form>
       </div>
 
       {/* Suggestion List */}
-      <div className="max-w-2xl mx-auto mt-10 bg-white rounded-2xl shadow-xl p-6">
-        <h3 className="text-xl font-bold text-gray-700 mb-4 text-center">📋 All Suggestions</h3>
+      {/* Suggestion List */}
+<div className="max-w-2xl mx-auto mt-10 bg-white rounded-2xl shadow-xl p-6">
+  <h3 className="text-2xl font-bold text-gray-800 mb-6 text-center border-b pb-2">📋 User Suggestions</h3>
 
-        {suggestions.length === 0 ? (
-          <p className="text-center text-gray-600">No suggestions yet.</p>
-        ) : (
-          suggestions.map((s) => (
-            <div key={s._id} className="border-b border-gray-200 py-4">
-              <p className="text-gray-800 text-md">💬 {s.suggesttext}</p>
-              <p className="text-sm text-gray-500 mt-1">
-                — <strong>{s.user?.name || "Unknown"}</strong> on {new Date(s.createdAt).toLocaleString()}
-              </p>
-            </div>
-          ))
-        )}
-      </div>
+  {suggestions.length === 0 ? (
+    <p className="text-center text-gray-500 italic">No suggestions yet. Be the first to suggest something!</p>
+  ) : (
+    <div className="space-y-4">
+      {suggestions.map((s) => (
+        <div
+          key={s._id}
+          className="bg-gray-50 border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md transition duration-200"
+        >
+          <p className="text-gray-800 text-md leading-relaxed">💬 {s.suggesttext}</p>
+          <p className="text-sm text-gray-500 mt-2 flex justify-between items-center">
+            <span>
+              — <span className="font-semibold text-blue-600">{s.user?.name || "Unknown"}</span>
+            </span>
+            <span>{new Date(s.createdAt).toLocaleString()}</span>
+          </p>
+        </div>
+      ))}
+    </div>
+  )}
+</div>
+
+     
     </div>
   );
 }
