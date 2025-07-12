@@ -3,9 +3,13 @@
 import React, { useState } from 'react'
 import Navbar from '../Navbar/Navbar'
 import { useNavigate } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+import { setUser } from '../redux/user-slice'; // Assuming you have a userSlice for Redux
 
 function Signup() {
   const navigate = useNavigate();
+  const dispatch = useDispatch(); 
+
 
   const [form, setForm] = useState({
     username: '',
@@ -39,6 +43,7 @@ function Signup() {
       const data1 = await res.json();
      
       if(res.ok){
+        dispatch(setUser(data1.user)); // Assuming setUser is an action to set user in Redux store
         alert("Signup successful! Please log in.");
         navigate("/login");
       }

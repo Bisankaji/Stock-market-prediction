@@ -39,7 +39,7 @@ const existingUser = await user.findOne({ name });
       return res.status(201).json({
         status: true,
         message: "User registered successfully",
-        user: { name, email, phone, address } // ✅ Don't return hashed password
+        user: { name, email, phone, address, _id:insert._id } // ✅ Don't return hashed password
       });
     }
   } catch (err) {
@@ -68,7 +68,7 @@ const login = async (req, res) => {
       return res.status(200).json({
         status: true,
         message: "Login successful",
-        user: { name: userData.name, email: userData.email, phone: userData.phone, address: userData.address }
+        user: { name: userData.name, email: userData.email, phone: userData.phone, address: userData.address, _id: userData._id } // ✅ Don't return hashed password
       });
     } else {
       return res.status(401).json({

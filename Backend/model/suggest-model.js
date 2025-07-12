@@ -6,6 +6,11 @@ const suggestSchema = new mongoose.Schema({
         type:String,
         require:true
     },
+    user:{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'user',
+        required: true
+    }
   
 }, {timestamps: true});
 

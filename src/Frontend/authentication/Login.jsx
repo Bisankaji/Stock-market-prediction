@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import Navbar from '../Navbar/Navbar';
 import { NavLink, useNavigate } from 'react-router-dom';
-
+import { useDispatch } from 'react-redux';
+import { setUser } from '../redux/user-slice';
 function Login() {
   
   const navigate = useNavigate();
 
+const dispatch = useDispatch(); // Assuming you have a userSlice for Redux
 
   const [info, setInfo] = useState({
     email: '',
@@ -33,6 +35,7 @@ function Login() {
       const data = await res.json();
       console.log(data);
       if(res.ok) {
+         dispatch(setUser(data.user));
         console.log("Login successful:");
         alert("Login successful!");
         navigate("/");
